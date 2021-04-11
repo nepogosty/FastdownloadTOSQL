@@ -1,2 +1,2 @@
-# FastdownloadTOSQL
+# FastdownloadTOSQL (core)
 Производится создание excel файла на 300000 записей, далее идет быстрая загрузка в БД MSSQL за 7 сек
